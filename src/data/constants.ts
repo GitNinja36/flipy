@@ -55,5 +55,69 @@ export const PRODUCTS_LIST: Product[] = [
         '15.49 cm (6.1 inch) Super Retina XDR Display',
       ],
     },
+    {
+      id: '5',
+      name: 'APPLE iPhone 13 (Midnight, 128 GB)',
+      imageUrl:
+        'https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg',
+      originalPrice: 69900,
+      discountPrice: 58999,
+      offerPercentage: 15,
+      rating: 4.6,
+      ratingCount: 129380,
+      tags: [
+        '12MP Front Camera',
+        '12MP + 12MP Dual Rear Camera',
+        '15.4 cm (6.1 inch) Super Retina XDR Display',
+      ],
+    },
+    {
+      id: '6',
+      name: 'APPLE iPhone 15 (Black, 128 GB)',
+      imageUrl:
+        'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-black-select-202309?wid=940&hei=1112&fmt=png-alpha&.v=1692923767972',
+      originalPrice: 79900,
+      discountPrice: 71999,
+      offerPercentage: 10,
+      rating: 4.8,
+      ratingCount: 21654,
+      tags: [
+        '48MP + 12MP Rear Camera',
+        '12MP Front Camera',
+        '15.49 cm (6.1 inch) Super Retina XDR Display',
+      ],
+    },
+    {
+      id: '7',
+      name: 'APPLE iPhone 13 Mini (Blue, 128 GB)',
+      imageUrl:
+        'https://m.media-amazon.com/images/I/61nPiOOv9BL._SX679_.jpg',
+      originalPrice: 69900,
+      discountPrice: 54999,
+      offerPercentage: 21,
+      rating: 4.5,
+      ratingCount: 95283,
+      tags: [
+        '12MP Front Camera',
+        '12MP + 12MP Dual Rear Camera',
+        '13.72 cm (5.4 inch) Super Retina XDR Display',
+      ],
+    },
+    {
+      id: '8',
+      name: 'APPLE iPhone SE (3rd Gen, Midnight, 64 GB)',
+      imageUrl:
+        'https://m.media-amazon.com/images/I/61-MT8AQAPL._SX679_.jpg',
+      originalPrice: 49900,
+      discountPrice: 45999,
+      offerPercentage: 8,
+      rating: 4.3,
+      ratingCount: 30349,
+      tags: [
+        '12MP Rear Camera',
+        '7MP Front Camera',
+        '11.94 cm (4.7 inch) Retina HD Display',
+      ],
+    },
   ];
   
